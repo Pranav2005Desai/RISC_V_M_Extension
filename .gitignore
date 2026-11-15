@@ -1,0 +1,4 @@
+tb/obj/
+tb/*.hex
+tb/rtl_trace.txt
+compliance/work/
